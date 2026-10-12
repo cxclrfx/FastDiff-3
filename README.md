@@ -102,3 +102,9 @@ Exact results are bounded by the chosen comparison settings and input data. Repl
 - [License](LICENSE) and [notice](NOTICE) — proprietary terms and repository scope.
 
 `SHA256SUMS.txt` covers every documentation file and graphic except itself. Checksum agreement establishes file integrity, not authorship or independent product certification. Compare against a checksum list obtained through a trusted channel.
+
+## Directory submission
+
+[![DevTool.io — submitted for review](assets/devtool-submission.svg)](https://devtool.io)
+
+A free directory submission is awaiting review. This link satisfies the directory’s backlink requirement; it is not a claim of acceptance or endorsement.
