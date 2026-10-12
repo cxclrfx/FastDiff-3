@@ -1,5 +1,9 @@
 # FastDiff 3
 
+> **Evaluation and enquiries:** [cxclrfx@proton.me](mailto:cxclrfx@proton.me) — discuss a private evaluation, demonstration or commercial license.
+> [Product overview and availability](PRODUCT_OVERVIEW.md) · [Compare editions](PRODUCT_OVERVIEW.md#choose-the-fastdiff-edition-for-your-workflow)
+
+
 **Exact data comparison. Bounded memory. Results you can verify.**
 
 FastDiff 3 is a deterministic offline reconciliation product for large structured datasets. Compare data states, locate the first difference or obtain a complete difference report, with retained evidence for verification. Designed for **Windows x64** and **private commercial distribution**.
